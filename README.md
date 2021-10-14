@@ -19,4 +19,4 @@ exec --no-startup-id conky -d -c ~/.i3/conky-left
 ### Output
 
 
-![alt text](/)
+![alt text](https://github.com/OOiiOOiiOO/Hacker_News_conky_i3/blob/main/screen.png)
