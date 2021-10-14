@@ -7,7 +7,7 @@ Top 20 News on https://news.ycombinator.com/
 
 - mkdir ~/.i3     (In Home Directory) 
 - cd ~/.i3
-- git clone https://github.com/OOiiOOiiOO/conky_i3.git
+- git clone https://github.com/OOiiOOiiOO/Hacker_News_conky_i3
 - Go to the location of the i3 config file (Default on /home/.config/i3)
 
 >Enable conky configuration on `~/.i3/config`
