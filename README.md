@@ -13,8 +13,7 @@ Top 20 News on https://news.ycombinator.com/
 >Enable conky configuration on `~/.i3/config`
 
 ```
-exec --no-startup-id conky -d -c ~/.i3/conky-right
-exec --no-startup-id conky -d -c ~/.i3/conky-left
+exec --no-startup-id conky -d -c ~/.i3/conky
 
 ```
 
