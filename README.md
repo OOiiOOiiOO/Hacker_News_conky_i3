@@ -19,4 +19,4 @@ exec --no-startup-id conky -d -c ~/.i3/conky-left
 ### Output
 
 
-! (https://imgur.com/a/8xDJk7C)
+![](https://imgur.com/a/8xDJk7C)
