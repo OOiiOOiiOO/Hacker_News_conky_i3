@@ -19,4 +19,4 @@ exec --no-startup-id conky -d -c ~/.i3/conky-left
 ### Output
 
 
-![](https://drive.google.com/file/d/1Cd5GEKZjwKnk_31mIXaNvueYJkcq1VsC/view?usp=sharing)
+![des](https://drive.google.com/file/d/1Cd5GEKZjwKnk_31mIXaNvueYJkcq1VsC/view?usp=sharing)
