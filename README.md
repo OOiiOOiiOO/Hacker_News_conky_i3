@@ -13,7 +13,10 @@ Hacker News Conky
 ```
 exec --no-startup-id conky -d -c ~/.i3/conky-right
 exec --no-startup-id conky -d -c ~/.i3/conky-left
+
 ```
+
+###Output
 
 
 
