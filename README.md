@@ -1,18 +1,19 @@
-# conky_i3
+## conky_i3
 Hacker News Conky
 
-# Steps
+## Steps
 
-mkdir ~/.i3     (In Home Directory) 
+- mkdir ~/.i3     (In Home Directory) 
+- cd ~/.i3
+- git clone https://github.com/OOiiOOiiOO/conky_i3.git
+- Go to the location of the i3 config file (Default on /home/.config/i3)
 
-cd ~/.i3
+>Enable conky configuration on `~/.i3/config`
 
-git clone https://github.com/OOiiOOiiOO/conky_i3.git
-
-Go to the location of the i3 config file (Default on /home/.config/i3)
-
-open config file and add this sentence:
-
+```
+exec --no-startup-id conky -d -c ~/.i3/conky-right
+exec --no-startup-id conky -d -c ~/.i3/conky-left
+```
 
 
 
