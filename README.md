@@ -1,6 +1,8 @@
 ## conky_i3
 Hacker News Conky
 
+Top 20 News on https://news.ycombinator.com/
+
 ## Steps
 
 - mkdir ~/.i3     (In Home Directory) 
